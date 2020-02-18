@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mikhailsmirnov/Documents/GitHub/kgd/node_modules/react-native-biometrics/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mikhailsmirnov/.gradle/caches/transforms-2/files-2.1/302071d9c75a06af28bf8671f44345b9/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mikhailsmirnov/Documents/GitHub/kgd/node_modules/react-native-biometrics/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/mikhailsmirnov/.gradle/caches/transforms-2/files-2.1/302071d9c75a06af28bf8671f44345b9/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mikhailsmirnov/Documents/GitHub/kgd/node_modules/react-native-biometrics/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mikhailsmirnov/.gradle/caches/transforms-2/files-2.1/302071d9c75a06af28bf8671f44345b9/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mikhailsmirnov/Documents/GitHub/kgd/node_modules/react-native-biometrics/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mikhailsmirnov/.gradle/caches/transforms-2/files-2.1/302071d9c75a06af28bf8671f44345b9/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

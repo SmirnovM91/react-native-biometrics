@@ -1,0 +1,73 @@
+{
+  "_from": "react-native-biometrics",
+  "_id": "react-native-biometrics@1.6.1",
+  "_inBundle": false,
+  "_integrity": "sha512-WYdZ6k3Miyl/+lEdhq6y4B6wz16d+PomO/xjR1hScYKeQWj1jaugPy0Ep+EjoWpJkPYLvnxasmIYR9v8OvWNHg==",
+  "_location": "/react-native-biometrics",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-biometrics",
+    "name": "react-native-biometrics",
+    "escapedName": "react-native-biometrics",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-biometrics/-/react-native-biometrics-1.6.1.tgz",
+  "_shasum": "c5f0c8949c6e527e6776c4581c4e5eebb6d571a7",
+  "_spec": "react-native-biometrics",
+  "_where": "/Users/mikhailsmirnov/Documents/GitHub/kgd",
+  "author": {
+    "name": "Brandon Hines",
+    "url": "https://github.com/NappyPirate"
+  },
+  "bugs": {
+    "url": "https://github.com/SelfLender/react-native-biometrics/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "deprecated": false,
+  "description": "React Native biometric functionality for signing and encryption",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "metro-react-native-babel-preset": "^0.56.0"
+  },
+  "homepage": "https://github.com/SelfLender/react-native-biometrics",
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "biometrics",
+    "authentication",
+    "auth",
+    "fingerprint",
+    "touch-id",
+    "face-id"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-native-biometrics",
+  "peerDependencies": {
+    "react-native": ">=0.52.0"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelfLender/react-native-biometrics.git"
+  },
+  "scripts": {
+    "build": "babel index.js -d lib",
+    "clean": "rm -rf lib && rm -rf node_modules && npm install",
+    "release": "npm run clean && npm run build && npm publish"
+  },
+  "summary": "A React Native library for biometrics",
+  "types": "index.d.ts",
+  "version": "1.6.1"
+}

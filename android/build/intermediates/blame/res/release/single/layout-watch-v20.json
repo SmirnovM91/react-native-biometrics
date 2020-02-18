@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mikhailsmirnov/Documents/GitHub/kgd/node_modules/react-native-biometrics/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mikhailsmirnov/.gradle/caches/transforms-2/files-2.1/2101f41eaeca2aaeb025240ed5117cc5/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mikhailsmirnov/Documents/GitHub/kgd/node_modules/react-native-biometrics/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mikhailsmirnov/.gradle/caches/transforms-2/files-2.1/2101f41eaeca2aaeb025240ed5117cc5/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
